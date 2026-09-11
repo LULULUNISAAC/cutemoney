@@ -5,6 +5,9 @@ want to build in a cute way for her so there here is A cute, simple money tracke
 entirely as a static site — perfect for hosting free on **GitHub Pages**. No
 backend, no build step, no dependencies to install.
 
+## Link to try out!
+https://lululunisaac.github.io/cutemoney/
+
 ## How data storage works
 
 All your income/expense entries and settings (daily budget,
