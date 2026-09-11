@@ -1,7 +1,7 @@
 # CuteMoney (Web) 🌷
 
-Hi this is Isaac I am trying to make a money tracker for my girlfriend but i kinda
-wan to build in a cute way so her it is A cute, simple money tracker that runs
+Hi this is Isaac I am trying to make a money tracker for my girlfriend but I kinda
+want to build in a cute way for her so there here is A cute, simple money tracker that runs
 entirely as a static site — perfect for hosting free on **GitHub Pages**. No
 backend, no build step, no dependencies to install.
 
